@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kumpulan App Basic</string>
+    <string-array name="hewan">
+        <item>Anjing</item>
+        <item>Ayam</item>
+        <item>Babi</item>
+        <item>Bebek</item>
+        <item>Burung Hantu</item>
+    </string-array>
+</resources>

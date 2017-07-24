@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnpertama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="toast" />
+
+    <Button
+        android:id="@+id/btndua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alert" />
+
+    <Button
+        android:id="@+id/btntiga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="spinner" />
+
+    <Button
+        android:id="@+id/btnempat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Popup menu" />
+
+    <Button
+        android:id="@+id/btnlima"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="luas segitiga" />
+
+    <Button
+        android:id="@+id/btnenam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="simple list" />
+
+    <Button
+        android:id="@+id/btntujuh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="custom list" />
+
+    <Button
+        android:id="@+id/btndelapan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="video" />
+
+    <Button
+        android:id="@+id/btnsembilan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="mini browser" />
+
+    <Button
+        android:id="@+id/btnsepuluh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="gambar" />
+</LinearLayout>
